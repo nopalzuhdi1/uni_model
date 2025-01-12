@@ -1,0 +1,10 @@
+gradio
+transformers
+python-docx
+pytesseract
+torch
+pillow
+accelerate
+symspellpy
+pandas
+numpy
